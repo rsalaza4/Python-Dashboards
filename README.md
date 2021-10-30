@@ -22,3 +22,9 @@ This repository contains a Python code for building interactive dashboards using
 ![Closing Price and Volume Tab](https://github.com/rsalaza4/Python-Dashboards/blob/main/Images/Closing_Price_and_Volume_tab.PNG)
 
 ![Daily Returns Tab](https://github.com/rsalaza4/Python-Dashboards/blob/main/Images/Daily_Returns_tab.PNG)
+
+---
+
+### Roberto Salazar
+
+**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://robertosalazarr.medium.com/)
